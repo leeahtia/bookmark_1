@@ -1,3 +1,4 @@
+#-*-coding: utf-8-*-
 from django.contrib import admin
 # 북마크 앱 모델에서 클래스 임포트
 from bookmark.models import Bookmark

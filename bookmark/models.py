@@ -1,3 +1,4 @@
+#-*-coding: utf-8-*-
 from django.db import models
 # 장고에서
 # 테이블은 (django.dbmodels.Model을 상속받는) 클래스로 정의하고,
